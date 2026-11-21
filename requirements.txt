@@ -1,0 +1,14 @@
+# requirements.txt
+# NIRVYTH - Autonomous AI for Public Safety & Drone Surveillance
+# Arthaton 2026 Submission
+#
+# Evaluation Prototype:
+# Runs with standard Python (3.8+) built-in libraries (http.server, socketserver, json, math, urllib).
+# No external pip packages are strictly required to run the evaluation server.
+#
+# Optional Edge / Drone Hardware Deployment:
+# opencv-python>=4.8.0
+# numpy>=1.24.0
+# ultralytics>=8.1.0
+# facenet-pytorch>=2.5.3
+# torch>=2.0.0
