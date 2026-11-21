@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "ZONE_RED_01",
+        "name": "High-Security VIP Stage & Media Enclosure",
+        "risk_tier": "HIGH_ALERT",
+        "color": "#ef4444",
+        "max_allowed_density": 1.5,
+        "intrusion_alarm": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2185,
+              28.6315
+            ],
+            [
+              77.221,
+              28.6315
+            ],
+            [
+              77.221,
+              28.6295
+            ],
+            [
+              77.2185,
+              28.6295
+            ],
+            [
+              77.2185,
+              28.6315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "ZONE_AMBER_02",
+        "name": "Central Choke Point - Metro Gate 4 Interchange",
+        "risk_tier": "CROWD_WATCH",
+        "color": "#f59e0b",
+        "max_allowed_density": 3.8,
+        "intrusion_alarm": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.215,
+              28.634
+            ],
+            [
+              77.218,
+              28.634
+            ],
+            [
+              77.218,
+              28.632
+            ],
+            [
+              77.215,
+              28.632
+            ],
+            [
+              77.215,
+              28.634
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "ZONE_GREEN_03",
+        "name": "Designated Medical Evacuation & Safe Assembly Area",
+        "risk_tier": "SAFE_ASSEMBLY",
+        "color": "#10b981",
+        "max_allowed_density": 6.0,
+        "intrusion_alarm": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.222,
+              28.6345
+            ],
+            [
+              77.2255,
+              28.6345
+            ],
+            [
+              77.2255,
+              28.6325
+            ],
+            [
+              77.222,
+              28.6325
+            ],
+            [
+              77.222,
+              28.6345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "PCR-ALPHA-01",
+        "callsign": "Eagle 1 (PCR Quick Reaction)",
+        "officer_in_charge": "Insp. R. Verma",
+        "status": "PATROLLING",
+        "eta_to_red_zone": "1m 45s",
+        "contact": "+91-9876543210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2172,
+          28.6308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "PCR-BRAVO-04",
+        "callsign": "Cheetah 4 (Sector Interceptor)",
+        "officer_in_charge": "SI K. Sengar",
+        "status": "STANDBY",
+        "eta_to_red_zone": "3m 10s",
+        "contact": "+91-9876543211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.223,
+          28.63
+        ]
+      }
+    }
+  ]
+}

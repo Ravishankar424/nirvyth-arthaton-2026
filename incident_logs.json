@@ -1,0 +1,56 @@
+[
+  {
+    "incident_id": "INC-2026-0041",
+    "timestamp": "2026-11-20T22:45:12+05:30",
+    "type": "WATCHLIST_MATCH",
+    "severity": "CRITICAL",
+    "target_person": "Vikram Singh (Alias Vicky)",
+    "confidence": 0.924,
+    "coordinates": {
+      "lat": 28.63112,
+      "lon": 77.21945
+    },
+    "drone_id": "UAV-SENTINEL-X1",
+    "altitude": 32.2,
+    "dispatch_assigned_to": "PCR-ALPHA-01",
+    "dispatch_status": "UNIT_EN_ROUTE",
+    "dpdp_masking_applied": true,
+    "hash_signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "incident_id": "INC-2026-0042",
+    "timestamp": "2026-11-20T22:48:30+05:30",
+    "type": "CROWD_SURGE_WARNING",
+    "severity": "HIGH",
+    "target_person": "Crowd Density: 4.6 persons/sq.m",
+    "confidence": 0.892,
+    "coordinates": {
+      "lat": 28.6331,
+      "lon": 77.2165
+    },
+    "drone_id": "UAV-SENTINEL-X1",
+    "altitude": 34.0,
+    "dispatch_assigned_to": "PCR-BRAVO-04",
+    "dispatch_status": "GATE_DISPERSAL_DIRECTED",
+    "dpdp_masking_applied": true,
+    "hash_signature": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+  },
+  {
+    "incident_id": "INC-2026-0043",
+    "timestamp": "2026-11-20T22:52:05+05:30",
+    "type": "RESTRICTED_PERIMETER_BREACH",
+    "severity": "MEDIUM",
+    "target_person": "2 Individuals entering Red Zone West Cordon",
+    "confidence": 0.941,
+    "coordinates": {
+      "lat": 28.63005,
+      "lon": 77.2189
+    },
+    "drone_id": "UAV-SENTINEL-X1",
+    "altitude": 31.8,
+    "dispatch_assigned_to": "STATIONARY_GUARD_POST_3",
+    "dispatch_status": "RESOLVED_WARNING_ISSUED",
+    "dpdp_masking_applied": true,
+    "hash_signature": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "W-2026-0891",
+    "name": "Vikram Singh (Alias: Vicky)",
+    "category": "WANTED_CRIMINAL",
+    "threat_level": "CRITICAL",
+    "warrant_id": "W-DL-CR-2026-4410",
+    "offense": "Armed Robbery & Gang Violence",
+    "last_known_area": "Connaught Place / Rajiv Chowk Sector 4",
+    "confidence_threshold": 0.85,
+    "embedding_preview": [
+      0.135,
+      0.1127,
+      -0.0125,
+      0.1044,
+      0.0769,
+      -0.0326,
+      -0.0372,
+      -0.1225
+    ],
+    "photo_ref": "vikram_singh_mugshot.jpg",
+    "action_protocol": "Immediate Tactical Patrol Dispatch (Code Red)"
+  },
+  {
+    "id": "W-2026-1104",
+    "name": "Rohan Deshmukh",
+    "category": "WANTED_CRIMINAL",
+    "threat_level": "HIGH",
+    "warrant_id": "W-MH-CR-2026-9021",
+    "offense": "Inter-State Smuggling & Counterfeiting",
+    "last_known_area": "Interstate Bus Terminal Perimeter",
+    "confidence_threshold": 0.88,
+    "embedding_preview": [
+      -0.0371,
+      -0.0264,
+      0.0154,
+      0.0369,
+      -0.1204,
+      0.0513,
+      0.1494,
+      0.1206
+    ],
+    "photo_ref": "rohan_deshmukh_mugshot.jpg",
+    "action_protocol": "Discrete Surveillance & Intercept Van Alert"
+  },
+  {
+    "id": "M-2026-0342",
+    "name": "Aarav Sharma (Age: 8)",
+    "category": "MISSING_PERSON",
+    "threat_level": "URGENT",
+    "warrant_id": "MPR-ND-2026-0189",
+    "offense": "Missing Child - Amber Alert",
+    "last_known_area": "Festival Fairgrounds Gate 2",
+    "confidence_threshold": 0.82,
+    "embedding_preview": [
+      -0.0649,
+      0.0742,
+      -0.1497,
+      -0.1241,
+      0.0271,
+      0.1339,
+      -0.0552,
+      0.0078
+    ],
+    "photo_ref": "aarav_sharma_missing.jpg",
+    "action_protocol": "Broadcast to Nearest Field Officers & Child Welfare PCR"
+  },
+  {
+    "id": "M-2026-0419",
+    "name": "Sunita Devi (Age: 72)",
+    "category": "MISSING_PERSON",
+    "threat_level": "MODERATE",
+    "warrant_id": "MPR-UP-2026-5532",
+    "offense": "Missing Senior Citizen (Dementia)",
+    "last_known_area": "Temple Complex Ghats",
+    "confidence_threshold": 0.84,
+    "embedding_preview": [
+      0.0122,
+      0.1214,
+      0.1049,
+      0.0763,
+      0.0421,
+      -0.1017,
+      0.0681,
+      -0.037
+    ],
+    "photo_ref": "sunita_devi_missing.jpg",
+    "action_protocol": "Notify Community Volunteer & Foot Patrol"
+  }
+]
